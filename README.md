@@ -1,6 +1,6 @@
 # React Native Class Component
 
-## Class Component :
+## Usage :
 
 - You need to additionally import Component from React :
 
